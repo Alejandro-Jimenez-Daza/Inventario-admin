@@ -1,22 +1,24 @@
-
-# Moonshine Boilerplate 🚀
+# Inventario-Admin 🚀
 
 Boilerplate personalizable para iniciar el desarrollo de su panel de administración con [Moonshine](https://moonshine-laravel.com/), un paquete de panel de administración potente y flexible para Laravel.
-
 
 ## Características 🌙
 
 - Configuración predeterminada de **Moonshine**.
 - Integración de permisos basados en roles utilizando el paquete [moonshine-roles-permissions](https://github.com/SWEET1S/moonshine-roles-permissions).
-- Cuatro temas de colores predefinidos.
 - Soporte para idioma español integrado.
 - Comando para generar todos los permisos de los recursos.
+- **Uso de Blueprint para generar modelos y migraciones automáticamente**.
+- **Implementación de seeders para poblar la base de datos**.
+- **Hecho con Laragon para un entorno de desarrollo local eficiente**.
 
-## Themes
-| ![theme1](./.docs/theme1.png) | ![theme2](./.docs/theme2.png) |
-|--------------------------------|--------------------------------|
-| ![theme3](./.docs/theme3.png)  | ![theme4](./.docs/theme4.png)|
+## Paquetes adicionales 📦
 
+Este proyecto utiliza los siguientes paquetes adicionales para mejorar su funcionalidad:
+
+- [Blueprint](https://blueprint.laravelshift.com/) para generar modelos y migraciones.
+  ```sh
+  composer require -W --dev laravel-shift/blueprint
 
 
 
