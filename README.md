@@ -72,3 +72,6 @@ Así es como puedes ejecutar el proyecto localmente:
     php artisan moonshine-rbac:user
     ```
 # Inventario-admin
+
+![image](https://github.com/user-attachments/assets/31744afd-d2ec-4df0-9e54-d8aaa93171fd)
+
